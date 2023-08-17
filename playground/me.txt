@@ -1,0 +1,6 @@
+{{#user}
+Name: Rezoanul Hasan
+Skills:React-js, HTML5, CSS3, Bootstrap, Tailwinds, DaisyUI,Firebase,Java script,Express-js, MongoDB
+Email: rezoanulhasan96@gmail.com
+{{/user}}
+
